@@ -51,6 +51,8 @@
 		AB8E437F2C2198D300087D90 /* ChatterCards */ = {
 			isa = PBXGroup;
 			children = (
+				ABBDAD632C25B2DD00BA4471 /* Authentication */,
+				ABBDAD622C25B2D100BA4471 /* Utilities */,
 				AB8E43802C2198D300087D90 /* ChatterCardsApp.swift */,
 				AB8E43822C2198D300087D90 /* ContentView.swift */,
 				AB8E43842C2198D500087D90 /* Assets.xcassets */,
@@ -65,6 +67,20 @@
 				AB8E43872C2198D500087D90 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		ABBDAD622C25B2D100BA4471 /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Utilities;
+			sourceTree = "<group>";
+		};
+		ABBDAD632C25B2DD00BA4471 /* Authentication */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Authentication;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
